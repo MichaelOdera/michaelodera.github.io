@@ -34,12 +34,12 @@ At times when the internet is slow, it may take time for the videos and photos a
 
 
 ## Technologies Used
-HTML5
+### HTML5
 -This enabled me to create better data validation pointsfor the nput, without necessarily using a scripting language such as Python or Javascript or PHP.
-This is in the case when a user is required to enter his name or email address.
+### This is in the case when a user is required to enter his name or email address.
 CSS3
 -This allowed me to have a better command over the tyling of the main outlook of the whole HTML page. It greatly enhanced my GUI.
-JavaScript
+### JavaScript
 -This came in handy to ensure responsivity of the navigation bar at the top and to better handle smaller screens by not showing the navigation bar, 
 but simply an impressivee menu ICON.
 
