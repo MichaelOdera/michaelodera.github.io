@@ -370,6 +370,10 @@ input[type="email"] {
     border-radius: 4px;
 }
 
+.inner:hover{
+    text-decoration: underline;
+}
+
 #up:hover {
     background-color: black;
 }
